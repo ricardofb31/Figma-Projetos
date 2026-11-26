@@ -1,33 +1,31 @@
-# App de Sunsets – Layout
+# App de Música – Layout
 
-Design completo do layout de uma aplicação móvel para encontrar spots de pôr do sol e descobrir as festas que acontecem durante os sunsets, com vários DJs. Feito no Figma.
+Design completo do layout de uma aplicação móvel de streaming de música, com descoberta de playlists, biblioteca pessoal, ecrã de reprodução com letras, perfis de artistas e plano Premium. Feito no Figma.
 
-**Ficheiro Figma:** [Abrir](https://www.figma.com/design/q3Zldeh1HP8BHrVu4yLWtB/Projeto-Final-App?node-id=0-1&t=8tXzUuOTZBYjCWHt-1)
+**Ficheiro Figma:** [Abrir](LINK_FIGMA)
 
 ## O que fiz
-- Desenhei sozinho todo o layout da aplicação, de raiz.
-- Criei os ecrãs para procurar spots de sunset.
-- Criei os ecrãs com as festas e os DJs de cada evento.
+- Desenhei todo o layout da aplicação, de raiz.
+- Criei os ecrãs de descoberta de música e playlists.
+- Criei o ecrã de reprodução com letras sincronizadas.
+- Criei os ecrãs de perfil, definições e plano Premium.
 
 ## Ecrãs
 
 ### Explorar
-![HOME](home.png)
-![ROOFTOPS](rooftops.png)
-![BEACH CLUBS](beach-clubs.png)
-![SECRET SPOTS](secret-spots.png)
+![HOME](Main.png)
+![MY MUSIC](My_Music.png)
+![TRAVIS SCOTT](TravisScott.png)
 
-### Eventos
-![SUNSET SESSIONS @ THE ROOF](sunset-sessions-the-roof.png)
-![SUMMER VIBES ROOFTOP PARTY](summer-vibes-rooftop-party.png)
-![DEEP HOUSE & COCKTAILS](deep-house-cocktails.png)
+### A tocar
+![POMPEII - BASTILLE](Bastille1.png)
+![DEJA VU - PLUTONIO](Plutonio1.png)
+![FOGO - SLOW J](SlowJ1.png)
 
-### Mensagens e perfil
-![Mensagens](mensagens.png)
-![Perfil](perfil.png)
-![DEFINICOES](definicoes.png)
-![ALTERAR EMAIL](alterar-email.png)
+### Perfil e definições
+![PERFIL](Tela_Perfil.png)
+![DEFINICOES](Settings.png)
+![PRIVACY POLICY](Privacy_Policy.png)
 
-### Bilhetes
-![BILHETES COMPRADOS](bilhetes-comprados.png)
-![BILHETES COMPRADOS QR](bilhetes-comprados-qr.png)
+### Premium
+![GO PREMIUM](Premium.png)
