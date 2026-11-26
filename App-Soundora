@@ -1,0 +1,33 @@
+# App de Sunsets – Layout
+
+Design completo do layout de uma aplicação móvel para encontrar spots de pôr do sol e descobrir as festas que acontecem durante os sunsets, com vários DJs. Feito no Figma.
+
+**Ficheiro Figma:** [Abrir](LINK_FIGMA)
+
+## O que fiz
+- Desenhei sozinho todo o layout da aplicação, de raiz.
+- Criei os ecrãs para procurar spots de sunset.
+- Criei os ecrãs com as festas e os DJs de cada evento.
+
+## Ecrãs
+
+### Explorar
+![HOME](home.png)
+![ROOFTOPS](rooftops.png)
+![BEACH CLUBS](beach-clubs.png)
+![SECRET SPOTS](secret-spots.png)
+
+### Eventos
+![SUNSET SESSIONS @ THE ROOF](sunset-sessions-the-roof.png)
+![SUMMER VIBES ROOFTOP PARTY](summer-vibes-rooftop-party.png)
+![DEEP HOUSE & COCKTAILS](deep-house-cocktails.png)
+
+### Mensagens e perfil
+![Mensagens](mensagens.png)
+![Perfil](perfil.png)
+![DEFINICOES](definicoes.png)
+![ALTERAR EMAIL](alterar-email.png)
+
+### Bilhetes
+![BILHETES COMPRADOS](bilhetes-comprados.png)
+![BILHETES COMPRADOS QR](bilhetes-comprados-qr.png)
